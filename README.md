@@ -27,25 +27,19 @@ ZestCart is a modern, responsive e-commerce web application built to deliver a s
 
 ## 📸 Screenshots
 
-> Add screenshots here after deployment.
+## 📸 Screenshots
 
-Example:
+### Home Page
 
-```
-screenshots/
-│── home.png
-│── products.png
-│── cart.png
-│── checkout.png
-```
+![Home](./screenshots/home.png)
 
-```md
-![Home](screenshots/home.png)
-![Products](screenshots/products.png)
-![Cart](screenshots/cart.png)
-```
+### Products Page
 
----
+![Products](./screenshots/products.png)
+
+### Cart and checkout
+
+![Cart](./screenshots/cart-and-checkout.png)
 
 ## 🛠️ Tech Stack
 
