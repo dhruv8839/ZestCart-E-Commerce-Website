@@ -1,0 +1,776 @@
+[
+  {
+    "id": "SKU-0001",
+    "title": "Apple Watch Series 9",
+    "slug": "apple-watch-series-9-1",
+    "category": "Electronics",
+    "brand": "Apple",
+    "price": 399,
+    "discountPercentage": 5,
+    "rating": 4.9,
+    "reviewsCount": 12000,
+    "stock": 45,
+    "description": "The ultimate device for a healthy life. Designed by Apple for everyday use. Authentic quality backed by a fictional 2-year warranty.",
+    "features": [
+      "Premium materials inspected for defects",
+      "30-day simulated return window",
+      "Secure fictional checkout"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1434493789847-2f02b3c2005?auto=format&fit=crop&w=900&h=900&q=85",
+      "https://images.unsplash.com/photo-1434493789847-2f02b3c2005?auto=format&fit=crop&w=900&h=900&q=85"
+    ],
+    "tags": [
+      "watch",
+      "wearable",
+      "apple"
+    ],
+    "isFeatured": true,
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "releasedAt": "2026-07-07T11:38:23.889Z"
+  },
+  {
+    "id": "SKU-0002",
+    "title": "AirPods Pro 2nd Gen",
+    "slug": "airpods-pro-2nd-gen-2",
+    "category": "Electronics",
+    "brand": "Apple",
+    "price": 249,
+    "discountPercentage": 10,
+    "rating": 4.8,
+    "reviewsCount": 34000,
+    "stock": 120,
+    "description": "Active Noise Cancellation and personalized spatial audio. Designed by Apple for everyday use. Authentic quality backed by a fictional 2-year warranty.",
+    "features": [
+      "Premium materials inspected for defects",
+      "30-day simulated return window",
+      "Secure fictional checkout"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1606220588913-b3eea48b7538?w=900&q=85",
+      "https://images.unsplash.com/photo-1606220588913-b3eea48b7538?w=900&q=85"
+    ],
+    "tags": [
+      "earbuds",
+      "audio",
+      "apple"
+    ],
+    "isFeatured": false,
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "releasedAt": "2026-07-06T11:38:23.892Z"
+  },
+  {
+    "id": "SKU-0003",
+    "title": "Sony WH-1000XM5",
+    "slug": "sony-wh-1000xm5-3",
+    "category": "Electronics",
+    "brand": "Sony",
+    "price": 349,
+    "discountPercentage": 0,
+    "rating": 4.9,
+    "reviewsCount": 8500,
+    "stock": 60,
+    "description": "Industry leading noise canceling headphones. Designed by Sony for everyday use. Authentic quality backed by a fictional 2-year warranty.",
+    "features": [
+      "Premium materials inspected for defects",
+      "30-day simulated return window",
+      "Secure fictional checkout"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1618366712010-f4ae9c647dcb?w=900&q=85",
+      "https://images.unsplash.com/photo-1618366712010-f4ae9c647dcb?w=900&q=85"
+    ],
+    "tags": [
+      "headphones",
+      "music",
+      "sony"
+    ],
+    "isFeatured": true,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "releasedAt": "2026-07-05T11:38:23.892Z"
+  },
+  {
+    "id": "SKU-0004",
+    "title": "Razer DeathAdder V3",
+    "slug": "razer-deathadder-v3-4",
+    "category": "Electronics",
+    "brand": "Razer",
+    "price": 69,
+    "discountPercentage": 15,
+    "rating": 4.6,
+    "reviewsCount": 4200,
+    "stock": 85,
+    "description": "Ultra-lightweight ergonomic esports mouse. Designed by Razer for everyday use. Authentic quality backed by a fictional 2-year warranty.",
+    "features": [
+      "Premium materials inspected for defects",
+      "30-day simulated return window",
+      "Secure fictional checkout"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?w=900&q=85",
+      "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?w=900&q=85"
+    ],
+    "tags": [
+      "mouse",
+      "gaming",
+      "razer"
+    ],
+    "isFeatured": false,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "releasedAt": "2026-07-04T11:38:23.892Z"
+  },
+  {
+    "id": "SKU-0005",
+    "title": "ASUS ROG Zephyrus G14",
+    "slug": "asus-rog-zephyrus-g14-5",
+    "category": "Electronics",
+    "brand": "ASUS",
+    "price": 1499,
+    "discountPercentage": 10,
+    "rating": 4.9,
+    "reviewsCount": 1500,
+    "stock": 20,
+    "description": "14-inch gaming laptop with AniMe Matrix display. Designed by ASUS for everyday use. Authentic quality backed by a fictional 2-year warranty.",
+    "features": [
+      "Premium materials inspected for defects",
+      "30-day simulated return window",
+      "Secure fictional checkout"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1603302576837-37561b2e2302?w=900&q=85",
+      "https://images.unsplash.com/photo-1603302576837-37561b2e2302?w=900&q=85"
+    ],
+    "tags": [
+      "laptop",
+      "gaming",
+      "asus"
+    ],
+    "isFeatured": true,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "releasedAt": "2026-07-03T11:38:23.892Z"
+  },
+  {
+    "id": "SKU-0006",
+    "title": "Dell XPS 13",
+    "slug": "dell-xps-13-6",
+    "category": "Electronics",
+    "brand": "Dell",
+    "price": 1199,
+    "discountPercentage": 0,
+    "rating": 4.7,
+    "reviewsCount": 2100,
+    "stock": 50,
+    "description": "Stunning InfinityEdge display and premium build. Designed by Dell for everyday use. Authentic quality backed by a fictional 2-year warranty.",
+    "features": [
+      "Premium materials inspected for defects",
+      "30-day simulated return window",
+      "Secure fictional checkout"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=900&q=85",
+      "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=900&q=85"
+    ],
+    "tags": [
+      "laptop",
+      "work",
+      "dell"
+    ],
+    "isFeatured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "releasedAt": "2026-07-02T11:38:23.892Z"
+  },
+  {
+    "id": "SKU-0007",
+    "title": "HP Spectre x360",
+    "slug": "hp-spectre-x360-7",
+    "category": "Electronics",
+    "brand": "HP",
+    "price": 1399,
+    "discountPercentage": 5,
+    "rating": 4.8,
+    "reviewsCount": 1600,
+    "stock": 30,
+    "description": "Versatile 2-in-1 convertible laptop. Designed by HP for everyday use. Authentic quality backed by a fictional 2-year warranty.",
+    "features": [
+      "Premium materials inspected for defects",
+      "30-day simulated return window",
+      "Secure fictional checkout"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1531297172869-217bd4bb7db9?w=900&q=85",
+      "https://images.unsplash.com/photo-1531297172869-217bd4bb7db9?w=900&q=85"
+    ],
+    "tags": [
+      "laptop",
+      "touch",
+      "hp"
+    ],
+    "isFeatured": false,
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "releasedAt": "2026-07-01T11:38:23.892Z"
+  },
+  {
+    "id": "SKU-0008",
+    "title": "Samsung Galaxy S24 Ultra",
+    "slug": "samsung-galaxy-s24-ultra-8",
+    "category": "Electronics",
+    "brand": "Samsung",
+    "price": 1299,
+    "discountPercentage": 0,
+    "rating": 4.8,
+    "reviewsCount": 5600,
+    "stock": 30,
+    "description": "Titanium exterior and Galaxy AI features. Designed by Samsung for everyday use. Authentic quality backed by a fictional 2-year warranty.",
+    "features": [
+      "Premium materials inspected for defects",
+      "30-day simulated return window",
+      "Secure fictional checkout"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?w=900&q=85",
+      "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?w=900&q=85"
+    ],
+    "tags": [
+      "phone",
+      "mobile",
+      "samsung"
+    ],
+    "isFeatured": true,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "releasedAt": "2026-06-30T11:38:23.892Z"
+  },
+  {
+    "id": "SKU-0009",
+    "title": "Fitbit Charge 6",
+    "slug": "fitbit-charge-6-9",
+    "category": "Electronics",
+    "brand": "Fitbit",
+    "price": 159,
+    "discountPercentage": 0,
+    "rating": 4.3,
+    "reviewsCount": 3100,
+    "stock": 90,
+    "description": "Advanced fitness and health tracker. Designed by Fitbit for everyday use. Authentic quality backed by a fictional 2-year warranty.",
+    "features": [
+      "Premium materials inspected for defects",
+      "30-day simulated return window",
+      "Secure fictional checkout"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1575311373937-040b8e1fd5b6?w=900&q=85",
+      "https://images.unsplash.com/photo-1575311373937-040b8e1fd5b6?w=900&q=85"
+    ],
+    "tags": [
+      "tracker",
+      "health",
+      "fitbit"
+    ],
+    "isFeatured": false,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "releasedAt": "2026-06-29T11:38:23.892Z"
+  },
+  {
+    "id": "SKU-0010",
+    "title": "JBL Flip 6",
+    "slug": "jbl-flip-6-10",
+    "category": "Electronics",
+    "brand": "JBL",
+    "price": 129,
+    "discountPercentage": 20,
+    "rating": 4.7,
+    "reviewsCount": 18000,
+    "stock": 40,
+    "description": "Waterproof portable Bluetooth speaker. Designed by JBL for everyday use. Authentic quality backed by a fictional 2-year warranty.",
+    "features": [
+      "Premium materials inspected for defects",
+      "30-day simulated return window",
+      "Secure fictional checkout"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=900&q=85",
+      "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=900&q=85"
+    ],
+    "tags": [
+      "speaker",
+      "portable",
+      "jbl"
+    ],
+    "isFeatured": false,
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "releasedAt": "2026-06-28T11:38:23.892Z"
+  },
+  {
+    "id": "SKU-0011",
+    "title": "Nike Air Force 1",
+    "slug": "nike-air-force-1-11",
+    "category": "Fashion",
+    "brand": "Nike",
+    "price": 115,
+    "discountPercentage": 0,
+    "rating": 4.8,
+    "reviewsCount": 43000,
+    "stock": 150,
+    "description": "The classic everyday sneaker that never goes out of style. Designed by Nike for everyday use. Authentic quality backed by a fictional 2-year warranty.",
+    "features": [
+      "Premium materials inspected for defects",
+      "30-day simulated return window",
+      "Secure fictional checkout"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?w=900&q=85",
+      "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?w=900&q=85"
+    ],
+    "tags": [
+      "sneakers",
+      "shoes",
+      "nike"
+    ],
+    "isFeatured": false,
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "releasedAt": "2026-06-27T11:38:23.892Z"
+  },
+  {
+    "id": "SKU-0012",
+    "title": "Adidas Ultraboost 1.0",
+    "slug": "adidas-ultraboost-10-12",
+    "category": "Fashion",
+    "brand": "Adidas",
+    "price": 190,
+    "discountPercentage": 10,
+    "rating": 4.9,
+    "reviewsCount": 21000,
+    "stock": 80,
+    "description": "High-performance running shoes with responsive cushioning. Designed by Adidas for everyday use. Authentic quality backed by a fictional 2-year warranty.",
+    "features": [
+      "Premium materials inspected for defects",
+      "30-day simulated return window",
+      "Secure fictional checkout"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1587563871167-1ee9c731aefb?w=900&q=85",
+      "https://images.unsplash.com/photo-1587563871167-1ee9c731aefb?w=900&q=85"
+    ],
+    "tags": [
+      "running",
+      "shoes",
+      "adidas"
+    ],
+    "isFeatured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "releasedAt": "2026-06-26T11:38:23.892Z"
+  },
+  {
+    "id": "SKU-0013",
+    "title": "Puma Suede Classic",
+    "slug": "puma-suede-classic-13",
+    "category": "Fashion",
+    "brand": "Puma",
+    "price": 75,
+    "discountPercentage": 20,
+    "rating": 4.6,
+    "reviewsCount": 12000,
+    "stock": 110,
+    "description": "Iconic retro sneakers with premium suede finish. Designed by Puma for everyday use. Authentic quality backed by a fictional 2-year warranty.",
+    "features": [
+      "Premium materials inspected for defects",
+      "30-day simulated return window",
+      "Secure fictional checkout"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1608231387042-66d1773070a5?w=900&q=85",
+      "https://images.unsplash.com/photo-1608231387042-66d1773070a5?w=900&q=85"
+    ],
+    "tags": [
+      "sneakers",
+      "shoes",
+      "puma"
+    ],
+    "isFeatured": false,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "releasedAt": "2026-06-25T11:38:23.892Z"
+  },
+  {
+    "id": "SKU-0014",
+    "title": "Levi's 501 Original Jeans",
+    "slug": "levis-501-original-jeans-14",
+    "category": "Fashion",
+    "brand": "Levi's",
+    "price": 79,
+    "discountPercentage": 15,
+    "rating": 4.7,
+    "reviewsCount": 52000,
+    "stock": 65,
+    "description": "The original straight fit jeans that started it all. Designed by Levi's for everyday use. Authentic quality backed by a fictional 2-year warranty.",
+    "features": [
+      "Premium materials inspected for defects",
+      "30-day simulated return window",
+      "Secure fictional checkout"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?w=900&q=85",
+      "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?w=900&q=85"
+    ],
+    "tags": [
+      "jeans",
+      "denim",
+      "levis"
+    ],
+    "isFeatured": true,
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "releasedAt": "2026-06-24T11:38:23.892Z"
+  },
+  {
+    "id": "SKU-0015",
+    "title": "Dr. Martens 1460 Boots",
+    "slug": "dr-martens-1460-boots-15",
+    "category": "Fashion",
+    "brand": "Dr. Martens",
+    "price": 170,
+    "discountPercentage": 0,
+    "rating": 4.8,
+    "reviewsCount": 14000,
+    "stock": 45,
+    "description": "Classic 8-eye smooth leather lace-up boots. Designed by Dr. Martens for everyday use. Authentic quality backed by a fictional 2-year warranty.",
+    "features": [
+      "Premium materials inspected for defects",
+      "30-day simulated return window",
+      "Secure fictional checkout"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1608256246200-53e635b5b65f?w=900&q=85",
+      "https://images.unsplash.com/photo-1608256246200-53e635b5b65f?w=900&q=85"
+    ],
+    "tags": [
+      "boots",
+      "leather"
+    ],
+    "isFeatured": true,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "releasedAt": "2026-06-23T11:38:23.892Z"
+  },
+  {
+    "id": "SKU-0016",
+    "title": "Zara Evening Dress",
+    "slug": "zara-evening-dress-16",
+    "category": "Fashion",
+    "brand": "Zara",
+    "price": 89,
+    "discountPercentage": 10,
+    "rating": 4.5,
+    "reviewsCount": 950,
+    "stock": 35,
+    "description": "Elegant black dress for sophisticated evenings. Designed by Zara for everyday use. Authentic quality backed by a fictional 2-year warranty.",
+    "features": [
+      "Premium materials inspected for defects",
+      "30-day simulated return window",
+      "Secure fictional checkout"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1595777457583-95e059d581b8?w=900&q=85",
+      "https://images.unsplash.com/photo-1595777457583-95e059d581b8?w=900&q=85"
+    ],
+    "tags": [
+      "dress",
+      "party",
+      "zara"
+    ],
+    "isFeatured": false,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "releasedAt": "2026-06-22T11:38:23.892Z"
+  },
+  {
+    "id": "SKU-0017",
+    "title": "Ray-Ban Aviator Classic",
+    "slug": "ray-ban-aviator-classic-17",
+    "category": "Fashion",
+    "brand": "Ray-Ban",
+    "price": 160,
+    "discountPercentage": 0,
+    "rating": 4.8,
+    "reviewsCount": 31000,
+    "stock": 140,
+    "description": "Iconic teardrop lenses and gold frame. Designed by Ray-Ban for everyday use. Authentic quality backed by a fictional 2-year warranty.",
+    "features": [
+      "Premium materials inspected for defects",
+      "30-day simulated return window",
+      "Secure fictional checkout"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1572635196237-14b3f281503f?w=900&q=85",
+      "https://images.unsplash.com/photo-1572635196237-14b3f281503f?w=900&q=85"
+    ],
+    "tags": [
+      "sunglasses",
+      "uv",
+      "rayban"
+    ],
+    "isFeatured": false,
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "releasedAt": "2026-06-21T11:38:23.892Z"
+  },
+  {
+    "id": "SKU-0018",
+    "title": "The North Face Borealis",
+    "slug": "the-north-face-borealis-18",
+    "category": "Fashion",
+    "brand": "The North Face",
+    "price": 99,
+    "discountPercentage": 12,
+    "rating": 4.7,
+    "reviewsCount": 4500,
+    "stock": 75,
+    "description": "Durable commuter and trail backpack. Designed by The North Face for everyday use. Authentic quality backed by a fictional 2-year warranty.",
+    "features": [
+      "Premium materials inspected for defects",
+      "30-day simulated return window",
+      "Secure fictional checkout"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=900&q=85",
+      "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=900&q=85"
+    ],
+    "tags": [
+      "backpack",
+      "travel",
+      "northface"
+    ],
+    "isFeatured": false,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "releasedAt": "2026-06-20T11:38:23.892Z"
+  },
+  {
+    "id": "SKU-0019",
+    "title": "Chanel No.5 Eau de Parfum",
+    "slug": "chanel-no5-eau-de-parfum-19",
+    "category": "Beauty",
+    "brand": "Chanel",
+    "price": 160,
+    "discountPercentage": 0,
+    "rating": 4.9,
+    "reviewsCount": 12000,
+    "stock": 40,
+    "description": "The world’s most iconic floral fragrance. Designed by Chanel for everyday use. Authentic quality backed by a fictional 2-year warranty.",
+    "features": [
+      "Premium materials inspected for defects",
+      "30-day simulated return window",
+      "Secure fictional checkout"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1594035910387-fea47794261f?w=900&q=85",
+      "https://images.unsplash.com/photo-1594035910387-fea47794261f?w=900&q=85"
+    ],
+    "tags": [
+      "perfume",
+      "scent",
+      "chanel"
+    ],
+    "isFeatured": true,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "releasedAt": "2026-06-19T11:38:23.892Z"
+  },
+  {
+    "id": "SKU-0020",
+    "title": "CeraVe Daily Moisturizer",
+    "slug": "cerave-daily-moisturizer-20",
+    "category": "Beauty",
+    "brand": "CeraVe",
+    "price": 15,
+    "discountPercentage": 0,
+    "rating": 4.8,
+    "reviewsCount": 28000,
+    "stock": 185,
+    "description": "Lightweight, oil-free moisturizer with hyaluronic acid. Designed by CeraVe for everyday use. Authentic quality backed by a fictional 2-year warranty.",
+    "features": [
+      "Premium materials inspected for defects",
+      "30-day simulated return window",
+      "Secure fictional checkout"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1601049541289-9b1b7bbbfe19?w=900&q=85",
+      "https://images.unsplash.com/photo-1601049541289-9b1b7bbbfe19?w=900&q=85"
+    ],
+    "tags": [
+      "cream",
+      "skincare",
+      "cerave"
+    ],
+    "isFeatured": false,
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "releasedAt": "2026-06-18T11:38:23.892Z"
+  },
+  {
+    "id": "SKU-0021",
+    "title": "MAC Matte Lipstick",
+    "slug": "mac-matte-lipstick-21",
+    "category": "Beauty",
+    "brand": "MAC",
+    "price": 23,
+    "discountPercentage": 10,
+    "rating": 4.7,
+    "reviewsCount": 19000,
+    "stock": 60,
+    "description": "Rich, creamy formula with a highly pigmented matte finish. Designed by MAC for everyday use. Authentic quality backed by a fictional 2-year warranty.",
+    "features": [
+      "Premium materials inspected for defects",
+      "30-day simulated return window",
+      "Secure fictional checkout"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1586495777744-4413f21062fa?w=900&q=85",
+      "https://images.unsplash.com/photo-1586495777744-4413f21062fa?w=900&q=85"
+    ],
+    "tags": [
+      "lipstick",
+      "makeup",
+      "mac"
+    ],
+    "isFeatured": false,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "releasedAt": "2026-06-17T11:38:23.892Z"
+  },
+  {
+    "id": "SKU-0022",
+    "title": "Glossier Cloud Paint",
+    "slug": "glossier-cloud-paint-22",
+    "category": "Beauty",
+    "brand": "Glossier",
+    "price": 20,
+    "discountPercentage": 0,
+    "rating": 4.8,
+    "reviewsCount": 11000,
+    "stock": 45,
+    "description": "Seamless, buildable gel-cream blush. Designed by Glossier for everyday use. Authentic quality backed by a fictional 2-year warranty.",
+    "features": [
+      "Premium materials inspected for defects",
+      "30-day simulated return window",
+      "Secure fictional checkout"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=900&q=85",
+      "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=900&q=85"
+    ],
+    "tags": [
+      "blush",
+      "makeup",
+      "glossier"
+    ],
+    "isFeatured": true,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "releasedAt": "2026-06-16T11:38:23.892Z"
+  },
+  {
+    "id": "SKU-0023",
+    "title": "YETI Rambler 20 oz",
+    "slug": "yeti-rambler-20-oz-23",
+    "category": "Home",
+    "brand": "YETI",
+    "price": 35,
+    "discountPercentage": 0,
+    "rating": 4.9,
+    "reviewsCount": 54000,
+    "stock": 300,
+    "description": "Double-wall vacuum insulated tumbler. Designed by YETI for everyday use. Authentic quality backed by a fictional 2-year warranty.",
+    "features": [
+      "Premium materials inspected for defects",
+      "30-day simulated return window",
+      "Secure fictional checkout"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1514228742587-6b1558fcca3d?w=900&q=85",
+      "https://images.unsplash.com/photo-1514228742587-6b1558fcca3d?w=900&q=85"
+    ],
+    "tags": [
+      "mug",
+      "coffee",
+      "yeti"
+    ],
+    "isFeatured": false,
+    "isNewArrival": false,
+    "isBestSeller": true,
+    "releasedAt": "2026-06-15T11:38:23.892Z"
+  },
+  {
+    "id": "SKU-0024",
+    "title": "Dyson V15 Detect",
+    "slug": "dyson-v15-detect-24",
+    "category": "Home",
+    "brand": "Dyson",
+    "price": 749,
+    "discountPercentage": 15,
+    "rating": 4.8,
+    "reviewsCount": 3800,
+    "stock": 40,
+    "description": "Cordless vacuum with laser illumination. Designed by Dyson for everyday use. Authentic quality backed by a fictional 2-year warranty.",
+    "features": [
+      "Premium materials inspected for defects",
+      "30-day simulated return window",
+      "Secure fictional checkout"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1558317374-067fb5f30001?w=900&q=85",
+      "https://images.unsplash.com/photo-1558317374-067fb5f30001?w=900&q=85"
+    ],
+    "tags": [
+      "vacuum",
+      "cleaning",
+      "dyson"
+    ],
+    "isFeatured": true,
+    "isNewArrival": false,
+    "isBestSeller": false,
+    "releasedAt": "2026-06-14T11:38:23.892Z"
+  },
+  {
+    "id": "SKU-0025",
+    "title": "Philips Hue Starter Kit",
+    "slug": "philips-hue-starter-kit-25",
+    "category": "Home",
+    "brand": "Philips",
+    "price": 199,
+    "discountPercentage": 10,
+    "rating": 4.7,
+    "reviewsCount": 8500,
+    "stock": 40,
+    "description": "Smart LED bulbs to customize your home lighting. Designed by Philips for everyday use. Authentic quality backed by a fictional 2-year warranty.",
+    "features": [
+      "Premium materials inspected for defects",
+      "30-day simulated return window",
+      "Secure fictional checkout"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1550989460-0adf9ea622e2?w=900&q=85",
+      "https://images.unsplash.com/photo-1550989460-0adf9ea622e2?w=900&q=85"
+    ],
+    "tags": [
+      "lamp",
+      "lighting",
+      "smart"
+    ],
+    "isFeatured": false,
+    "isNewArrival": true,
+    "isBestSeller": false,
+    "releasedAt": "2026-06-13T11:38:23.892Z"
+  }
+]
